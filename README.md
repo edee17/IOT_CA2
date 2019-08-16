@@ -68,8 +68,16 @@ a) Resistors are used to change the amount of current flowing through a part of 
 
 ![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/10KResistor.jpg "Optional title")
 
-##### DHT11 Sensor
+##### 1 DHT11 Sensor
 
 a) The DHT11 is a basic, ultra low-cost digital temperature and humidity sensor.
 
 ![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/DHT11.jpg "Optional title")
+
+## Section 3 Hardware setup
+
+In this section, we will connect all the components shown in Section 2.
+
+### Fritzing Diagram
+
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/FritzingDiagram_CA2.png "Optional title")
