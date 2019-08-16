@@ -35,3 +35,41 @@ Final Set-up
 ```
 
 ![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/RPI_Setup.jpg "Optional title")
+
+```
+Overview of SmartCCTV
+```
+
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/SystemArchitectureDiagram.jpg "Optional title")
+
+
+### C. How does the web application look like?
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/WebApp.jpg "Optional title")
+
+## Section 2 Hardware Requirements
+
+### A. Hardware checklist
+
+##### 1 Light-Dependant Resistor (LDR)
+
+a) Light-Dependant Resistor (LDR) is a photo conductive sensor. It is a variable resistor that changes it’s resistance in a proportion to the light exposed to it. Its resistance decreases with the intensity of light. In this case, the resistance is higher when it is dark. We will use this hardware to tell if the room is bright or dark.
+
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/LDR.jpg "Optional title")
+
+##### 1 Analog-to-Digital Converter
+
+a) The MCP3008 is a low cost 8-channel 10-bit analog to digital converter.  The precision of this ADC is similar to that of an Arduino Uno, and with 8 channels you can read quite a few analog signals from the Pi.  This chip is a great option if you just need to read simple analog signals, like from a temperature or light sensor.
+
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/MCP3008ADC.jpg "Optional title")
+
+##### 2 10K Ω Resistors
+
+a) Resistors are used to change the amount of current flowing through a part of the circuit. This is often used as a means of protecting components which cannot handle large currents.
+
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/10KResistor.jpg "Optional title")
+
+##### DHT11 Sensor
+
+a) The DHT11 is a basic, ultra low-cost digital temperature and humidity sensor.
+
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/DHT11.jpg "Optional title")
