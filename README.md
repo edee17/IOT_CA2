@@ -34,4 +34,4 @@ This application is inspired by an incident that happened to my uncle’s 2 Year
 Final Set-up
 ```
 
-![Alt text](https://github.com/Revanus/DISMIoTSmartParkV2Assignment/blob/master/README(IMAGES)/RPI_Setup.jpg "Optional title")
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/RPI_Setup.jpg "Optional title")
