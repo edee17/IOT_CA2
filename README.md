@@ -88,7 +88,7 @@ In this section, we will connect all the components shown in Section 2.
 
 a) First, navigate to AWS website and click on services and search for IOT Core.
 
-![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/AWS_Services.png "Optional title")
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/AWS_Services.PNG "Optional title")
 
 b) In the manage console, select things and choose register a thing.
 
@@ -140,7 +140,7 @@ m) Select the certificate you created previously again, and click attach thing. 
 
 a) Click on IAM service.
 
-![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/AWS_Services.png "Optional title")
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/AWS_Services.PNG "Optional title")
 
 b) Click Create Role, choose AWS Service, then IOT.
 
@@ -156,7 +156,7 @@ d) Copy and Paste the REST API endpoint of the Thing and also the ARN into a Not
 
 a) First, navigate to DynamoDB within the AWS website by clicking on services, then DynamoDB. Click create table.
 
-![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/AWS_Services.png "Optional title")
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/AWS_Services.PNG "Optional title")
 
 ![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/CreateDynamoDB.png "Optional title")
 
@@ -192,7 +192,7 @@ I used AWS S3 to recognize if there is any object blocking the camera.
 
 a) In the AWS console, search for S3
 
-![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/AWS_Services.png "Optional title")
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/AWS_Services.PNG "Optional title")
 
 b) Click Create Bucket.
 
