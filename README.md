@@ -108,7 +108,7 @@ e) Click create certificate. Download all four files. As for the root CA, downlo
 
 f) Rename the four files accordingly.
 
-![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/CertificateName.png "Optional title")
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/CertificateName.PNG "Optional title")
 
 g) Copy these four files into the same directory in the raspberry pi.
 
@@ -158,7 +158,7 @@ a) First, navigate to DynamoDB within the AWS website by clicking on services, t
 
 ![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/AWS_Services.PNG "Optional title")
 
-![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/CreateDynamoDB.png "Optional title")
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/CreateDynamoDB.PNG "Optional title")
 
 b) Enter the table name and other info as stated below, then click create.
 
@@ -196,11 +196,11 @@ a) In the AWS console, search for S3
 
 b) Click Create Bucket.
 
-![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/CreateBucket.png "Optional title")
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/CreateBucket.PNG "Optional title")
 
 c) Enter the details as shown below
 
-![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/CreateBucketInfo.png "Optional title")
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/CreateBucketInfo.PNG "Optional title")
 
 ## Section 7 Program Setup
 
@@ -268,7 +268,7 @@ This python file host the web page. The web page will enable us to take photo of
 
 The following files are required to get the style of the webpage.
 
-![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/WebAppSetup.png "Optional title")
+![Alt text](https://github.com/edee17/IOT_CA2/blob/master/README(IMAGES)/WebAppSetup.PNG "Optional title")
 
 ## Section 10 Expected outcome
 
